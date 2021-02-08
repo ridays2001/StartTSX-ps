@@ -1,3 +1,7 @@
+# No Longer Valid
+This script may not work anymore. The dependencies have been updated and a lot of changes have been made to the original create-react-app tool.
+----
+
 # StartTSX-PS
 This is a powershell script to automate the creation of a TSX project using a single command.
 This command will create the TSX project, update dependencies, update README file, remove git references, and copy the setup files to the project folder.
